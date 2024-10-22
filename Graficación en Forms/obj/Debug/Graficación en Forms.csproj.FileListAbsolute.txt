@@ -1,0 +1,10 @@
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\bin\Debug\Graficación en Forms.exe.config
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\bin\Debug\Graficación en Forms.exe
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\bin\Debug\Graficación en Forms.pdb
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación en Forms.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación_en_Forms.Form1.resources
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación_en_Forms.Properties.Resources.resources
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación en Forms.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación en Forms.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación en Forms.exe
+C:\Users\Laura\source\repos\Graficación en Forms\Graficación en Forms\obj\Debug\Graficación en Forms.pdb
